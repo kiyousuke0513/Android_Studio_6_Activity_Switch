@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity_Switch</string>
+    <string name="BT1">Switch Activity!</string>
+    <string name="TV1">A</string>
+    <string name="TV2">B</string>
+    <drawable name="bkcolor_YL">#FFC925</drawable>
+    <drawable name="bkcolor_BK">#2B2B2B</drawable>
+</resources>
